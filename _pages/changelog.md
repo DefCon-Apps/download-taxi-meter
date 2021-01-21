@@ -5,61 +5,79 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+-----
+<br>
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## Version 1.3_release1
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+### 2020. 9. 14.
+
+- 미터기 애니메이션에 원 타입이 추가되었습니다.
+- 요금계산 알고리즘이 개선되었습니다.
+- 서울시 동시병산제, 시외/야간 할증 알고리즘이 개선되었습니다.
+- 백그라운드 동작 안정성이 개선되었습니다. 애플리케이션의 위치권한을 "항상 허용"으로 해주셔야 올바르게 동작합니다.
+- 애플리케이션 UX를 개선하였습니다.
+- 전반적인 애플리케이션의 동작을 안정화하였습니다.
+- Google Payment 및 CAULY 라이브러리 버전이 업데이트되었습니다..
 
 <br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+-----
+<br>
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## Version 1.2_release1
+
+### 2020. 1. 13.
+
+- 일부 삼성 갤럭시 기기에서 발생하던 화면잘림현상을 해결하였습니다.
+- 대구지역 기본요금이 3800원으로 표기되던 문제를 해결하였습니다.
+- GPS 관련 알고리즘을 개선하였습니다.
+- 애플리케이션 동작 안정성을 개선하였습니다.
 
 <br>
 
-________
+-----
 <br>
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+## Version 1.1_release3
 
-<br>
+### 2019. 10. 11.
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- 미터기 동작중에는 화면이 꺼지지 않도록 하였습니다.
+- GPS 및 미터기 화면 동작 안정성을 개선하였습니다.
 
 <br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+## Version 1.1_release2
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+### 2019. 10. 6.
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+- Cauly SDK 버전을 업데이트하였습니다.
+- 미터기 화면 동작 안정성을 개선하였습니다.
+
+<br>
+
+## Version 1.1_release1
+
+### 2019. 10. 6.
+
+- 한국어 번역 내 오타를 수정하였습니다.
+- GPS 속도 계산 알고리즘을 변경하였습니다.
+- GPS 정확도 관련 코드를 개선하였습니다. 이전에 비해 좀 더 정확한 요금 계산이 가능합니다.
+
+<br>
+
+-----
+<br>
+
+## Version 1.0
+
+### 2019. 10. 5.
+
+- 택시미터기 첫번째 배포
 
 <br>

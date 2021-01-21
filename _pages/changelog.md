@@ -9,8 +9,6 @@ include_in_header: true
 <br>
 
 ### `Latest`
------
-<br>
 
 ## Version 1.3_release1
 

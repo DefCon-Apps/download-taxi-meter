@@ -379,7 +379,7 @@ nav > ul li a:active {
 // iPhone Device Preview
 
 .iphoneBackground {
-	width: 400px auto;
+	width: 400px;
 	position: absolute;
 }
 
@@ -415,7 +415,7 @@ nav > ul li a:active {
 @media only screen and (max-width: 1070px) {
 
 	.iphoneBackground {
-		width: 370px auto;
+		width: 370px;
 		position: absolute;
 	}
 
@@ -446,7 +446,7 @@ nav > ul li a:active {
 @media only screen and (max-width: 992px) {
 
 	.iphoneBackground {
-		width: 260px auto;
+		width: 260px;
 		position: absolute;
 	}
 

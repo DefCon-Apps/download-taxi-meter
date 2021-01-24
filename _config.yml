@@ -38,21 +38,13 @@ features                                  :
       description                           : 서울, 경기 등 수도권은 물론 부산, 광주 등 광역시를 포함한 다양한 지자체의 택시요금 정보를 제공합니다.
       fontawesome_icon_name                 : won-sign
       
-    - title                                 : 진짜같은 미터기 애니메이션
-      description                           : 말 타입의 애니메이션과 원 타입의 애니메이션을 선택적으로 제공해 실제 미터기같은 느낌을 줍니다.
+    - title                                 : 진짜같은 애니메이션
+      description                           : 말 타입의 애니메이션과 원 타입의 애니메이션을 선택적으로 제공해 실제 미터기같은 느낌을 줍니다.<br/>Special Thanks To... Minsik Kim
       fontawesome_icon_name                 : palette
 
     - title                                 : GPS 활용
-      description                           : 스마트폰의 GPS를 이용해 현재속도를 측정하고 이동거리를 계산해 요금을 산정하는 애플리케이션의 특성상, 터널이나 전파간섭이 심한 장소에서는 택시 요금의 정확도가 떨어질 수 있습니다.
+      description                           : 스마트폰의 GPS를 이용하여 이동거리를 계산해 요금을 산정하는 애플리케이션의 특성상, 터널이나 전파간섭이 심한 장소에서는 요금의 정확도가 떨어질 수 있습니다.
       fontawesome_icon_name                 : map-marked-alt
-
-    - title                                 : 
-      description                           : 
-      fontawesome_icon_name                 : 
-
-    - title                                 : 주의사항
-      description                           : 여객자동차 운수사업법 제 2장 26조에 의해 공인되지 않은 미터장치인 본 애플리케이션을 이용해 동승자에게 요금을 부과하는 행위는 금지됩니다. 이로 인한 민/형사상 법적 문제에 대해 개발자에게는 책임이 없습니다.
-      fontawesome_icon_name                 : exclamation-circle
   
   # - title                                 : Feature List
   #   description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
